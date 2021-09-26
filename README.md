@@ -10,5 +10,3 @@ Bot to explore NFT Art on various Marketplaces
 - Run  the command `npx cypress open` 
 - When the Cypress open
 - Click on the `allNFTS.spec.js` 
-
-![Demo](cypress/fixtures/Demo.jpg)
