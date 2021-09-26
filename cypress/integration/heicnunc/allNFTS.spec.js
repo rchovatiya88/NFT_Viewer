@@ -10,7 +10,7 @@ describe('Explore Hicetnunc Homepage', () => {
             // Cypress.Cookies.preserveOnce();
     })
 
-    it('Go to home page and try to buy a product', () => {
+    it('Go to home page and scroll to doom', () => {
         cy.visit("https://www.hicetnunc.xyz/");
         cy.scrollTo('bottom', { duration: 8000 });
         cy.wait(1000)
